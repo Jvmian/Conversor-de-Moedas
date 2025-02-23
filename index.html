@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conversor de Moedas</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body>
+    <div class="container">
+        <h2>Conversor de Moedas</h2>
+        <div class="converter">
+            <input type="number" id="valor" placeholder="Valor" min="0">
+            <select id="moedaOrigem">
+                <option value="USD">Dólar (USD)</option>
+                <option value="EUR">Euro (EUR)</option>
+                <option value="BRL" selected>Real (BRL)</option>
+                <option value="JPY">Iene Japonês (JPY)</option>
+                <option value="GBP">Libra Esterlina (GBP)</option>
+            </select>
+            <span>➡</span>
+            <select id="moedaDestino">
+                <option value="USD">Dólar (USD)</option>
+                <option value="EUR">Euro (EUR)</option>
+                <option value="BRL">Real (BRL)</option>
+                <option value="JPY">Iene Japonês (JPY)</option>
+                <option value="GBP">Libra Esterlina (GBP)</option>
+            </select>
+            <button onclick="converter()">Converter</button>
+            <h3 id="resultado"></h3>
+        </div>
+    </div>
+    <footer>
+        <p>Desenvolvido por <a href="https://www.linkedin.com/in/jvmian/">João Victor Mian Valdomiro</a></p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
