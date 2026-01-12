@@ -1,60 +1,43 @@
-💱 Conversor de Moedas
+# 💱 Conversor de Moedas
 
-Bem-vindo ao Conversor de Moedas, uma aplicação simples e prática para realizar conversões entre diferentes moedas de forma rápida e intuitiva.
+Aplicação web desenvolvida para realizar **conversões entre moedas** de forma simples e intuitiva.
 
-Ideal para quem estuda programação, finanças, economia ou deseja entender melhor como funcionam conversões monetárias no dia a dia. 🚀
+Este projeto foi criado com foco em **lógica de programação**, **organização de código** e **prática com JavaScript**, sendo ideal para quem está evoluindo no desenvolvimento **front-end** 🚀
 
-✨ Funcionalidades
+---
 
-✅ Conversão entre diferentes moedas
+## ✨ Funcionalidades
 
-✅ Atualização dinâmica dos valores
+✅ Conversão dinâmica entre moedas  
+✅ Interface limpa, simples e responsiva  
+✅ Código organizado e fácil de entender  
+✅ Projeto voltado para prática de JavaScript  
 
-✅ Interface simples, limpa e intuitiva
+---
 
-✅ Código organizado e fácil de entender
+## 📌 Como usar
 
-✅ Projeto ideal para estudos e prática em JavaScript
+```bash
+git clone https://github.com/Jvmian/Conversor-de-Moedas.git
+cd Conversor-de-Moedas
+# Abra o arquivo index.html no navegador
 
-📌 Como usar
-1️⃣ Clone o repositório
-git clone https://github.com/seu-usuario/conversor-moedas.git
+🌐 Links do projeto
+🔗 Site (GitHub Pages):
+https://jvmian.github.io/Conversor-de-Moedas/index.html
 
-2️⃣ Acesse a pasta do projeto
-cd conversor-moedas
-
-3️⃣ Execute
-
-Abra o arquivo index.html no seu navegador.
+🔗 Repositório GitHub:
+https://github.com/Jvmian/Conversor-de-Moedas
 
 🛠 Tecnologias utilizadas
 
-HTML — estrutura da aplicação
+HTML
 
-CSS — estilização e responsividade
+CSS
 
-JavaScript — lógica de conversão e interatividade
-
-🤝 Contribuindo
-
-Contribuições são bem-vindas! 🚀
-
-Você pode:
-
-Abrir uma issue
-
-Enviar um pull request
-
-Sugerir melhorias ou novas funcionalidades
-
-Toda ajuda é válida para evoluir o projeto.
+JavaScript
 
 📜 Licença
+Este projeto está sob a licença MIT.
 
-Este projeto está sob a Licença MIT.
-Sinta-se livre para usar, modificar e distribuir.
-
-⭐ Dica
-
-Se este projeto foi útil para você,
-não esqueça de deixar uma ⭐ no repositório — isso ajuda muito!
+⭐ Se este projeto foi útil, considere deixar uma estrela no repositório!
