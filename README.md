@@ -21,23 +21,32 @@ Este projeto foi criado com foco em **lógica de programação**, **organizaçã
 git clone https://github.com/Jvmian/Conversor-de-Moedas.git
 cd Conversor-de-Moedas
 # Abra o arquivo index.html no navegador
+```
 
-#### 🌐 Links do projeto
-🔗 Site (GitHub Pages):
-https://jvmian.github.io/Conversor-de-Moedas/index.html
+---
 
-🔗 Repositório GitHub:
-https://github.com/Jvmian/Conversor-de-Moedas
+### 🌐 Links do projeto
 
-##### 🛠 Tecnologias utilizadas
+🔗 **Site (GitHub Pages):**  
+https://jvmian.github.io/Conversor-de-Moedas/index.html  
 
-HTML
+🔗 **Repositório GitHub:**  
+https://github.com/Jvmian/Conversor-de-Moedas  
 
-CSS
+---
 
-JavaScript
+### 🛠 Tecnologias utilizadas
 
-###### 📜 Licença
-Este projeto está sob a licença MIT.
+- HTML  
+- CSS  
+- JavaScript  
 
-####### ⭐ Se este projeto foi útil, considere deixar uma estrela no repositório!
+---
+
+### 📜 Licença
+
+Este projeto está sob a licença **MIT**.
+
+---
+
+⭐ **Se este projeto foi útil, considere deixar uma estrela no repositório!**
